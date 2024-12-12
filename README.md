@@ -24,7 +24,7 @@ NajBot is a Discord bot built using the discord.py library. It includes various 
 
 3. Enter your discord bot token at the bottom of the file:
 ```py
-client.run('NzY0MjA3MzI2MTI2NjY5ODg0.X4C5iA.SzQbQNYyaquxpN6Zs76zdEKPmyM')
+client.run('')
 ```
 
 4. Run the bot:
